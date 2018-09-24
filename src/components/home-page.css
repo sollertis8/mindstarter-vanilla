@@ -1,0 +1,136 @@
+nav {
+    font-family: comfortaa;
+    width: auto;
+    height: 100px;
+    background-color: #8e7cc3;
+    margin: 0 !important;
+    padding: 30px;
+    font-size: 17px;
+  }
+  
+  .top-nav li {
+    padding: 10px;
+    display: inline;
+    color: #ff9900 !important;
+  }
+  
+  li .right {
+    float: right;
+  }
+  
+  li .left {
+    float: left;
+  }
+
+  a .login {
+      float: right;
+  }
+  
+  nav .logo-home {
+    float: left;
+    width: auto !important;
+    color: #ff9900;
+  }
+  
+  nav .logo {
+    float: left;
+    width: auto !important;
+    color: #b4a7d6;
+  }
+  
+  .signout {
+    display: none;
+    float: right;
+    color: #b4a7d6ff !important;
+  }
+  
+  .top {
+    width: auto;
+    height: 330px;
+    background-color: #8e7cc3ff;
+    position: relative;
+  }
+  
+  .tagline {
+    color: white;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .jumpstart {
+    color: #ff9900 !important;
+  }
+  
+  .centerpiece {
+    padding: 40px;
+    height: 300px;
+    width: auto;
+    position: relative;
+  }
+  
+  .get-started {
+    font-family: comfortaa;
+    color: white !important;
+    font-size: 20px;
+    position: relative;
+    /* margin: auto; */
+    text-align: center;
+    display: inline-block;
+    top: 15px;
+  }
+  
+  .cards {
+    position: relative;
+    top: 80px;
+    text-align: center;
+    margin: 0;
+    display: inline-block;
+    height: auto;
+  }
+  
+  .cards .card-text {
+    font-family: comfortaa;
+    font-size: 1.3em;
+    color: #ff9900;
+  }
+  
+  .card-text {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    /* position: relative; */
+    display: block !important;
+  }
+  
+  .life {
+    margin-top: -5px;
+  }
+  
+  .brainstorming {
+    margin-top: 17px;
+  }
+
+  .brain {
+    text-align: center;
+    margin: auto;
+    position: relative;
+    /* top: 30px; */
+}
+  
+  h1 {
+    font-family: comfortaa;
+    font-size: 3em;
+  }
+  
+  .dot {
+    height: 8em;
+    width: 8em;
+    background-color: #b4a7d6ff;
+    border-radius: 50%;
+    padding-top: 40px;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    z-index: 1;
+    display: block;
+    top: -240px;
+  }
