@@ -1,0 +1,150 @@
+html, 
+body {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+  }
+
+.left-nav {
+    width: 250px;
+    background-color: #8e7cc3;
+    padding: 30px 0;
+}
+
+.side-nav {
+    width: 300px;
+    background-color: #8e7cc3;
+    padding: 30px 0;
+}
+
+/* .side-nav-item {
+    background-color: #8e7cc3;
+} */
+
+.side-nav .collapsible-body {
+    background-color: #422567 !important;
+}
+
+.collapsible-body {
+    position: relative;
+    /* padding: 0; */
+    /* left: 20px; */
+
+}
+
+.side-nav .collapsible-body :active {
+    background-color: #8e7cc3 !important;
+}
+
+.nav-logo {
+    text-align: center;
+}
+
+.left-nav, li {
+    position: relative;
+    font-family: comfortaa;
+    color: white;
+    /* padding: 15px 18px; */
+    font-size: 16px;
+}
+
+.nav-image {
+    color: white;
+    padding-right: 20px;
+    display: inline;
+}
+
+.nav-item {
+    padding: 10px 20px;
+}
+
+/* li :hover {
+    background-color: #422567;
+    width: 100%;
+} */
+
+.side-nav a:hover {
+    background-color: #8e7cc3;
+}
+
+
+.side-nav a {
+    color: white;
+}
+
+.side-nav li {
+    
+}
+
+.item-link {
+    position: relative;
+    top: -9px;
+}
+
+.left-nav-logo {
+    display: inline-block;
+    width: 50px;
+    height: 40px;
+}
+
+.left-nav-mindstarter {
+    position: relative;
+    top: -13px;
+    display: inline-block;
+    font-family: comfortaa;
+    color: #ff9900;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.user-image {
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.user {
+    width: 100%;
+    margin: 20px auto;
+    text-align: center;
+
+}
+
+.user-name {
+    text-align: center;
+}
+
+.mind-level {
+    text-align: center;
+    color: #ff9900;
+    margin: 20px 0 50px 0;
+}
+
+body, #root, .app, main, .left-nav {
+    height: 100%;
+}
+
+
+.dash-nav {
+    margin: 0 auto;
+    
+}
+
+.collapsible {
+    border: none;
+}
+
+.collapsible-header {
+   background-color: #8e7cc3;
+   border: none;
+}
+
+.recent-activity {
+    margin: 30px 0;
+    text-align: center;
+}
